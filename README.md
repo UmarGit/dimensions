@@ -1,33 +1,20 @@
-# ./
+# Dimensions
 
-This template should help get you started developing with Vue 3 in Vite.
+> A 3D + 2D game to test your skills and reflexes
 
-## Recommended IDE Setup
+# Contributing
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+To contribute to the Dimensions project, follow these steps:
 
-## Type Support for `.vue` Imports in TS
+1. Fork the repository on GitHub.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your contributions.
+4. Make your changes and improvements to the codebase.
+5. Test your changes thoroughly.
+6. Commit your changes with descriptive commit messages.
+7. Push your changes to your forked repository.
+8. Submit a pull request to the main repository.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Please ensure that your contributions adhere to the coding guidelines and best practices followed in the project.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+We appreciate your contributions and look forward to your pull requests!
